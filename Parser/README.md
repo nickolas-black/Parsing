@@ -1,5 +1,5 @@
-#Parser
-SourseCode for Webinar - Parsing
+Parser
+
 
     scrapy startproject myproject [project_dir]
     
